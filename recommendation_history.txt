@@ -1,0 +1,35 @@
+Timestamp: 2026-03-09 21:54:12
+Image: C:/Users/harsh/OneDrive/Documents/happy baby .jpg
+Emotion: happiness
+Meals: Healthy Mint Brownies
+Movies: The King of Comedy, A Midsummer Night's Sex Comedy, Fear City: A Family-Style Comedy, King of Comedy, The Broken Hearts Club: A Romantic Comedy, The Comedy of Terrors, Louis C.K.: Live at the Comedy Store, The Original Kings of Comedy, Comedy Central Roast of Charlie Sheen, The Comedy
+Music: Dooron Dooron, Arz Kiya Hai | Coke Studio Bharat, Sahiba, For A Reason, Finding Her
+--------------------------------------------------
+Timestamp: 2026-03-09 22:02:05
+Image Path: C:/Users/harsh/OneDrive/Documents/fear face.jpg
+Detected Emotion: fear
+Meal Suggestions: Fried Rice - Chinese comfort food
+Movie Suggestions: The Rocky Horror Picture Show, The Amityville Horror, Nosferatu: A Symphony of Horror, The Amityville Horror, Horror of Dracula, A Classic Horror Story, Horror Express, A Christmas Horror Story, The Rocky Horror Picture Show: Let's Do the Time Warp Again, Little Horror Movie
+Music Suggestions: Boulevard of Broken Dreams - Green Day, Demons - Imagine Dragons, Creep - Radiohead
+--------------------------------------------------
+Timestamp: 2026-03-09 22:10:28
+Image Path: C:/Users/harsh/OneDrive/Documents/angry old man .jpg
+Detected Emotion: anger
+Meal Suggestions: Spicy Tuna Cakes, Spicy Vegan Chili, Spicy Bloody Mary, Spicy Salmon Patties, Spicy Cilantro Pesto, Spicy Korean Bbq Pork, Spicy Radish Crab Dip, Spicy Vegan Quesadillas, Spicy Bean Sausage Stew, Spicy Eggplant Spaghetti
+Movie Suggestions: Last Action Hero, Back in Action, Looney Tunes: Back in Action, An Action Hero, A Civil Action, Missing in Action, Action Jackson, Action Point, 321 Action, Missing in Action 2: The Beginning
+Music Suggestions: Numb - Linkin Park, Enter Sandman - Metallica, Stronger - Kanye West
+--------------------------------------------------
+Timestamp: 2026-03-09 22:12:20
+Image Path: C:/Users/harsh/OneDrive/Documents/surprise indian baby.jpg
+Detected Emotion: surprise
+Meal Suggestions: Refreshing Key Lime Pie, Refreshing Strawberry Limeade, Refreshing Zucchini and Potatoes, A Refreshing Drink To Welcome You All, No-Cook Refreshing Mint Avocado Chilled Soup, Make this Creamy, Refreshing Dip & Be Ready for a Party in Less than 5 Minutes, Strawberry Cucumber Refresher
+Movie Suggestions: Michael Jackson: Thriller, Thriller: A Cruel Picture, Sing: Thriller, Clue: A Love Thriller, Thriller 40, Thriller, Shrek: Thriller Night, The Making of 'Thriller', Clarkson: Thriller, Pornography: A Thriller
+Music Suggestions: Get Lucky - Daft Punk, Blinding Lights - The Weeknd, Uptown Funk - Bruno Mars
+--------------------------------------------------
+Timestamp: 2026-03-09 23:59:59
+Image Path: C:/Users/harsh/OneDrive/Documents/angry face.jpg
+Detected Emotion: anger
+Meal Suggestions: Spicy Tuna Cakes, Spicy Vegan Chili, Spicy Bloody Mary, Spicy Salmon Patties, Spicy Cilantro Pesto, Spicy Korean Bbq Pork, Spicy Radish Crab Dip, Spicy Vegan Quesadillas, Spicy Bean Sausage Stew, Spicy Eggplant Spaghetti
+Movie Suggestions: Last Action Hero, Back in Action, Looney Tunes: Back in Action, An Action Hero, A Civil Action, Missing in Action, Action Jackson, Action Point, 321 Action, Missing in Action 2: The Beginning
+Music Suggestions: Numb - Linkin Park, Enter Sandman - Metallica, Stronger - Kanye West
+--------------------------------------------------
